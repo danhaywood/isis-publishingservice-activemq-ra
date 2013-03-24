@@ -1,3 +1,9 @@
+activemq-data/
+.project
+.classpath
+.settings/
+target/
+target-ide/
 *.class
 
 # Package Files #
